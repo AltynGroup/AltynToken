@@ -1,0 +1,16 @@
+{
+  "name": "Altyn Token",
+  "symbol": "ALTN",
+  "description": "We are AltynGroup",
+  "seller_fee_basis_points": 0,
+  "image": "https://raw.githubusercontent.com/AltynGroup/AltynToken/main/Solana/logoaltyntoken.png",
+  "attributes": [],
+  "properties": {
+    "creators": [
+      {
+        "address": "AoyxahUW6PFaqHp3tN8akoEyCjLzdhs4tm1fKRgXJSCw",
+        "share": 100
+      }
+    ]
+  }
+}
