@@ -1,7 +1,7 @@
 {
-  "name": "Altyn Token",
-  "symbol": "ALTN",
-  "description": "We are AltynGroup",
+  "name": "ALTYN",
+  "symbol": "ALTYN",
+  "description": "Profit our Passion!",
   "seller_fee_basis_points": 0,
   "image": "https://raw.githubusercontent.com/AltynGroup/AltynToken/main/Solana/logoaltyntoken.png",
   "attributes": [],
